@@ -64,7 +64,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Phạm Huỳnh Thảo Trân",
     role: "Bí thư Đoàn",
     unit: "Khối Văn phòng",
-    image: "/user/Female-72.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-16.jpg?raw=true",
     achievement: "Điều phối hiệu quả 12 chương trình thanh niên năm 2026.",
     participation: [
       "Tham gia công tác Đoàn từ năm 2018 tại chi đoàn Văn phòng.",
@@ -87,7 +87,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Nguyễn Hoàng Minh",
     role: "Phó Bí thư",
     unit: "Phân xưởng Cán",
-    image: "/user/Female-56.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-16.jpg?raw=true",
     achievement: "Dẫn dắt 8 sáng kiến cải tiến quy trình hiện trường.",
     participation: [
       "Gia nhập tổ chức Đoàn năm 2017, phụ trách khối sản xuất trực tiếp.",
@@ -110,7 +110,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Trần Thị Mỹ Duyên",
     role: "Ủy viên BCH",
     unit: "Phòng Nhân sự",
-    image: "/user/Female-46.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-46.jpg?raw=true",
     achievement: "Tổ chức chuỗi đào tạo kỹ năng mềm cho 140 đoàn viên.",
     participation: [
       "Tham gia BCH từ năm 2021, phụ trách mảng phát triển đoàn viên.",
@@ -133,7 +133,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Lê Quốc An",
     role: "Ủy viên BCH",
     unit: "Phòng Kế hoạch",
-    image: "/user/Female-38.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-38.jpg?raw=true",
     achievement: "Xây dựng hệ thống theo dõi KPI phong trào theo quý.",
     participation: [
       "Tham gia Đoàn từ năm 2019, phụ trách mảng kế hoạch hoạt động.",
@@ -156,7 +156,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Phạm Thanh Tùng",
     role: "Ủy viên BCH",
     unit: "Bộ phận HSE",
-    image: "/user/Female-16.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-16.jpg?raw=true",
     achievement: "Triển khai chuyên đề Ngày thứ Bảy an toàn tại 3 phân xưởng.",
     participation: [
       "Gắn bó công tác Đoàn từ năm 2020 tại mảng an toàn vệ sinh lao động.",
@@ -179,7 +179,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Đoàn Ngọc Hân",
     role: "Cán bộ công tác Đoàn",
     unit: "Chi đoàn Cơ điện",
-    image: "/user/Female-9.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-9.jpg?raw=true",
     achievement: "Phụ trách truyền thông nội bộ, tăng 60% tương tác bản tin Đoàn.",
     participation: [
       "Tham gia công tác Đoàn từ năm 2022 tại chi đoàn Cơ điện.",
@@ -202,7 +202,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Võ Thành Đạt",
     role: "Cán bộ công tác Đoàn",
     unit: "Chi đoàn Kho vận",
-    image: "/user/Female-2.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-2.jpg?raw=true",
     achievement: "Điều phối thành công 4 chương trình thiện nguyện cộng đồng.",
     participation: [
       "Gia nhập công tác Đoàn năm 2021, phụ trách mảng hậu cần hoạt động.",
@@ -225,7 +225,7 @@ export const excellentMembers: ExcellentMember[] = [
     name: "Nguyễn Thảo Nhi",
     role: "Cán bộ công tác Đoàn",
     unit: "Chi đoàn Tài chính",
-    image: "/user/Female-72.jpg",
+    image: "https://github.com/theptaydo/doanthanhnien/blob/main/public/user/Female-72.jpg?raw=true",
     achievement: "Thúc đẩy mô hình Quỹ sẻ chia hỗ trợ đoàn viên khó khăn.",
     participation: [
       "Tham gia tổ chức Đoàn từ năm 2020, phụ trách các chương trình an sinh.",

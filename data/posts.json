@@ -3,8 +3,8 @@
     "slug": "thep-tay-do-suc-tre-xung-kich-lan-toa-gia-tri-ket-noi",
     "title": "THÉP TÂY ĐÔ - SỨC TRẺ XUNG KÍCH, LAN TỎA GIÁ TRỊ KẾT NỐI",
     "excerpt": "Đoàn cán bộ, công nhân viên lần đầu tham gia Giải thể thao Cụm khu vực Miền Trung 2026 với tinh thần đoàn kết, giao lưu và cống hiến.",
-    "coverImage": "/posts/1.jpg",
-    "thumbnail": "/posts/1.jpg",
+    "coverImage": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/1.jpg?raw=true",
+    "thumbnail": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/1.jpg?raw=true",
     "date": "2026-06-27",
     "author": "Ban Truyền thông Đoàn Thanh Niên",
     "content": [
@@ -18,8 +18,8 @@
     "slug": "hanh-trinh-ve-nguon-2026-tuoi-tre-thep-tay-do-khac-ghi-lich-su",
     "title": "HÀNH TRÌNH VỀ NGUỒN 2026 - TUỔI TRẺ THÉP TÂY ĐÔ KHẮC GHI LỊCH SỬ, KHƠI NGUỒN KHÁT VỌNG",
     "excerpt": "Đoàn viên Thép Tây Đô đến các địa chỉ đỏ tại TP. Hồ Chí Minh nhân kỷ niệm Ngày Giải phóng miền Nam 30/4.",
-    "coverImage": "/posts/2.jpg",
-    "thumbnail": "/posts/2.jpg",
+    "coverImage": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/2.jpg?raw=true",
+    "thumbnail": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/2.jpg?raw=true",
     "date": "2026-04-26",
     "author": "Ban Chấp hành Đoàn Thanh Niên",
     "content": [
@@ -33,8 +33,8 @@
     "slug": "ra-quan-thang-thanh-nien-2026-ket-noi-yeu-thuong",
     "title": "RA QUÂN THÁNG THANH NIÊN 2026 | KẾT NỐI YÊU THƯƠNG - LAN TỎA GIÁ TRỊ NHÂN VĂN",
     "excerpt": "Chương trình thiện nguyện tại Cơ sở Bảo trợ xã hội Thiên Ân lan tỏa mạnh mẽ tinh thần sẻ chia của tuổi trẻ Thép Tây Đô.",
-    "coverImage": "/posts/3.jpg",
-    "thumbnail": "/posts/3.jpg",
+    "coverImage": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/3.jpg?raw=true",
+    "thumbnail": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/3.jpg?raw=true",
     "date": "2026-03-26",
     "author": "Ban Công tác xã hội",
     "content": [
@@ -48,8 +48,8 @@
     "slug": "thep-tay-do-chao-mung-ngay-quoc-te-phu-nu-08-03",
     "title": "THÉP TÂY ĐÔ TỔ CHỨC HOẠT ĐỘNG CHÀO MỪNG NGÀY QUỐC TẾ PHỤ NỮ 08/3",
     "excerpt": "Chương trình phối hợp giữa Đoàn Thanh niên và Công đoàn nhằm tri ân, tôn vinh và lan tỏa giá trị tốt đẹp của nữ CBCNV.",
-    "coverImage": "/posts/4.jpg",
-    "thumbnail": "/posts/4.jpg",
+    "coverImage": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/4.jpg?raw=true",
+    "thumbnail": "https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/4.jpg?raw=true",
     "date": "2026-03-08",
     "author": "Chi đoàn Văn phòng",
     "content": [
