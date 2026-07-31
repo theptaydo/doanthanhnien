@@ -13,7 +13,7 @@ export function AboutSection() {
           <div>
             <div className="overflow-hidden rounded-lg bg-muted">
               <Image
-                src="/posts/1.jpg"
+                src="https://github.com/theptaydo/doanthanhnien/blob/main/public/posts/1.jpg?raw=true"
                 alt="Đoàn viên thanh niên Thép Tây Đô trong hoạt động tập thể"
                 width={900}
                 height={700}
